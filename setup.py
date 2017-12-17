@@ -63,7 +63,7 @@ REQUIRES = [
 
 setup(
     name=PROJECT_PACKAGE_NAME,
-    version=__version__,
+    version='0.59.2.1',
     license=PROJECT_LICENSE,
     url=PROJECT_URL,
     download_url=DOWNLOAD_URL,
