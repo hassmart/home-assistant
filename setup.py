@@ -8,7 +8,7 @@ import homeassistant.const as hass_const
 
 
 PROJECT_NAME = 'Home Assistant'
-PROJECT_PACKAGE_NAME = 'homeassistant'
+PROJECT_PACKAGE_NAME = 'hassmart_homeassistant'
 PROJECT_LICENSE = 'Apache License 2.0'
 PROJECT_AUTHOR = 'The Home Assistant Authors'
 PROJECT_COPYRIGHT = ' 2013-2018, {}'.format(PROJECT_AUTHOR)
